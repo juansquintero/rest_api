@@ -3,12 +3,8 @@
     {
       "id": 1,
       "name": "David",
-      "age": 30
-    },
-    {
-      "name": "John",
-      "id": 2,
-      "age": 40
+      "number": "3123054631",
+      "password": "1234"
     }
   ]
 }
